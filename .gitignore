@@ -2,3 +2,4 @@
 /.embuild
 /target
 /*.env
+venv/
